@@ -1,2 +1,0 @@
-# PopShakes
-Chocolate Shake Recipe
